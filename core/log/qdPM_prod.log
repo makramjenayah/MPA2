@@ -1,0 +1,7 @@
+Sep 14 14:51:33 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+Sep 14 14:58:05 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+Sep 14 15:10:12 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[42000] [1044] Access denied for user 'makruuun_qdpm'@'localhost' to database 'makruuun_qdpm'
+Sep 14 15:10:15 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[42000] [1044] Access denied for user 'makruuun_qdpm'@'localhost' to database 'makruuun_qdpm'
+Sep 14 15:14:23 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[42000] [1044] Access denied for user 'makruuun_qdpm'@'localhost' to database 'makruuun_qdpm'
+Sep 14 15:14:27 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[42000] [1044] Access denied for user 'makruuun_qdpm'@'localhost' to database 'makruuun_qdpm'
+Sep 14 15:14:49 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[42000] [1044] Access denied for user 'makruuun_qdpm'@'localhost' to database 'makruuun_qdpm'

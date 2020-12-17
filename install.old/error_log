@@ -1,0 +1,1 @@
+[14-Sep-2020 16:05:16 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PasswordHash has a deprecated constructor in /home/makruuun/master.makram.cloud/qdpm/core/lib/PasswordHash.php on line 27

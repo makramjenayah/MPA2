@@ -1,0 +1,12 @@
+  
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:dbname=makruuun_user1;host=localhost'
+      profiler: false
+      username: makruuun_user1
+      password: "<?php echo urlencode('Developpeur123') ; ?>"
+      attributes:
+        quote_identifier: true  
+  
